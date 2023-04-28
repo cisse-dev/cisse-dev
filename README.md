@@ -1,8 +1,7 @@
-Hey hey 👋 I'm CISSE.DEV
-
-========================
-Web Developer 
-------------------------
+Hey hey 👋 Je suis Cisse-Dev
+==============================
+ Développeur Web et Web Mobile 
+-------------------------------
 
 
 
