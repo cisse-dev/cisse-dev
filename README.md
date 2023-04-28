@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cisse-Dev</h1>
 <h3 align="center">Développeur Web et Web Mobile</h3>
 
-- 👨‍💻 Développeur Web et Web Mobile : Je suis un développeur web et mobile ayant obtenu un diplôme de Bac+2. J'ai acquis des compétences en HTML, CSS, PHP, JavaScript, MySQL, ainsi que dans l'utilisation de frameworks tels que React, Bootstrap et Symphony. Je suis passionné par l'art du codage et toujours à la recherche de nouvelles façons de développer des projets passionnants et innovants.⚽️🏋️‍♂️ Passionné de football et de musculation : Lorsque je ne code pas de sites web ou d'applications mobiles, vous pouvez me trouver sur le terrain de football ou à la salle de musculation. 
+- 👨‍💻 Développeur Web et Web Mobile : Je suis un développeur web et mobile ayant obtenu un diplôme de Bac+2. J'ai acquis des compétences en HTML, CSS, PHP, JavaScript, MySQL, ainsi que dans l'utilisation de frameworks tels que React, Bootstrap et Symphony. Je suis passionné par l'art du codage et toujours à la recherche de nouvelles façons de développer des projets passionnants et innovants.                                                                        ⚽️🏋️‍♂️ Passionné de football et de musculation : Lorsque je ne code pas de sites web ou d'applications mobiles, vous pouvez me trouver sur le terrain de football ou à la salle de musculation. 
 - 💼 J'apprécie particulièrement le travail d'équipe, l'autonomie et la résolution de problèmes. 
 - 🤝 Au quotidien, je suis quelqu'un d'ouvert d'esprit, curieux, créatif et rigoureux. [https://github.com/cisse-dev](https://github.com/cisse-dev)
 
